@@ -5,6 +5,6 @@ By the end of this project, we try to design the High-fidelity prototype of the 
 
 
 All the documents submitted in this section is a group work by all of the group members.
-bipin-suram
-rezvanshokranidev
+bipin-suram,
+rezvanshokranidev,
 tonmoy-sarker
